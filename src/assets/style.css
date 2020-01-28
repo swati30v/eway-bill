@@ -87,10 +87,35 @@ section.last-second {
 }
 section.part9 {
     margin-top: 30px;
+    text-align: center;
 }
 button.btn.btn-primary.blue {
     margin-left: 24px;
 }
 button.btn.btn-danger.blue {
     margin-left: 24px;
+}
+section.part6 {
+    background-color: lightblue;
+}
+label.form-check-label {
+    margin-left: 64px;
+}
+p.noumber {
+    margin-top: 3px;
+}
+p.noumber2 {
+    margin-left: -35%;
+}
+ul.part10 {
+    list-style-type: none;
+}
+section.exception {
+    margin-left: 13%;
+}
+p.num {
+    margin-left: -51px;
+}
+p.num2 {
+    margin-left: -100px;
 }
