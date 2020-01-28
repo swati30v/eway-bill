@@ -113,9 +113,13 @@ ul.part10 {
 section.exception {
     margin-left: 13%;
 }
-p.num {
-    margin-left: -51px;
+.last-section2 {
+    margin-top: 14px;
 }
-p.num2 {
-    margin-left: -100px;
+.form2 {
+    margin-top: 12px;
+}
+section.last-section {
+    text-align: center;
+    margin-left: 32%;
 }
